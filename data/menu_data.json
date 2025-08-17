@@ -1,0 +1,26 @@
+{
+  "makanan": [
+    {"name": "Nasi Goreng", "price": 25000, "description": "Nasi goreng dengan telur dan ayam"},
+    {"name": "Mie Ayam", "price": 20000, "description": "Mie dengan potongan ayam jamur"},
+    {"name": "Sate Ayam", "price": 30000, "description": "Sate ayam dengan bumbu kacang"},
+    {"name": "Gado-Gado", "price": 22000, "description": "Salad sayur dengan saus kacang"},
+    {"name": "Rendang", "price": 35000, "description": "Daging sapi rendang pedas"},
+    {"name": "Soto Ayam", "price": 18000, "description": "Soto ayam dengan kuah kuning"},
+    {"name": "Bakso", "price": 15000, "description": "Bakso daging sapi dengan mie"},
+    {"name": "Ayam Goreng", "price": 28000, "description": "Ayam goreng krispi"},
+    {"name": "Nasi Uduk", "price": 20000, "description": "Nasi uduk dengan lauk telur dan tempe"},
+    {"name": "Pecel Lele", "price": 25000, "description": "Lele goreng dengan sambal"}
+  ],
+  "minuman": [
+    {"name": "Es Teh", "price": 5000, "description": "Es teh manis"},
+    {"name": "Es Jeruk", "price": 8000, "description": "Es jeruk segar"},
+    {"name": "Kopi Hitam", "price": 10000, "description": "Kopi hitam tanpa gula"},
+    {"name": "Jus Alpukat", "price": 15000, "description": "Jus alpukat dengan susu"},
+    {"name": "Es Campur", "price": 12000, "description": "Es campur buah dan sirup"},
+    {"name": "Air Mineral", "price": 3000, "description": "Air mineral botol"},
+    {"name": "Cendol", "price": 10000, "description": "Cendol dengan santan dan gula merah"},
+    {"name": "Milkshake Coklat", "price": 18000, "description": "Milkshake coklat kental"},
+    {"name": "Soda Gembira", "price": 12000, "description": "Campuran soda, sirup, dan susu"},
+    {"name": "Wedang Jahe", "price": 8000, "description": "Minuman jahe hangat"}
+  ]
+}
